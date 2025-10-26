@@ -1,0 +1,5 @@
+{
+  "name": "NWU Course Companion",
+  "description": "A course and exam management system for students and teachers at North Western University. Students can view their courses, and teachers can generate exam questions using AI.",
+  "requestFramePermissions": []
+}
